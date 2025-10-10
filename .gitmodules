@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dikshakatiyar/C-SARATHI-html
+[submodule "backend"]
+	path = backend
+	url = https://github.com/dikshakatiyar/csarathi-backend
