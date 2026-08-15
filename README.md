@@ -4,7 +4,7 @@ C-Sarathi is a centralized **college helpdesk platform** designed to streamline 
 It allows students to raise tickets, browse FAQs, and contact faculty, while administrators can manage and resolve queries efficiently.
 
 ---
-
+ 
 ## 🏗️ Repository Structure: A Poly-Repo Architecture
 
 This project follows a **poly-repo architecture** managed via **Git Submodules**.  
